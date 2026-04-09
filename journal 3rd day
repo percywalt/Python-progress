@@ -1,0 +1,34 @@
+📅 2026-04-09
+
+🎯 What dit i learned?
+if, else, int, float
+
+💻 Wat heb ik gedaan?
+var1 = int(input())
+var2 = 120
+result= var2 - var1
+
+
+print(f"{result} years till 120")
+
+and 
+
+b = int(input())
+
+if b == 0:
+    print("F")
+else:
+    print("T")
+
+❌ Problemen / fouten
+-how to inplement int(input())
+
+🧠 What i did not understand yet?
+-implementation with the int or float
+
+
+✅ What went well?
+To make a result from a number  
+
+🔁 Morgen ga ik:
+-scretch from a bill split calculator
