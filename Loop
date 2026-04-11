@@ -1,0 +1,28 @@
+📅 2026-04-11
+
+🎯 What dit i learned?
+a little loop
+
+💻 Wat heb ik gedaan?
+# Type your code below
+count_even = 0
+for i in range(10, 51):
+    if i % 2 == 0:
+        count_even += 1
+
+
+# Don't change the line below
+print(f"count_even = {count_even}")
+
+❌ Problemen / fouten
+-forget to use i as an int 
+
+🧠 What i did not understand yet?
+-how to stay focused and use i instead of count even
+
+
+✅ What went well?
+the fist 2 lines   
+
+🔁 Morgen ga ik:
+-while loop
