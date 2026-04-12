@@ -1,0 +1,25 @@
+📅 2026-04-11
+
+🎯 What dit i learned?
+How factorial works
+
+💻 Wat heb ik gedaan? 
+
+n = int(input())
+res = 1
+for i in range (1, n + 1):
+    res *= i
+print (res)
+
+❌ Problemen / fouten
+-how factorial works 
+
+🧠 What i did not understand yet?
+-res *= 1
+
+
+✅ What went well?
+first 2 lines 
+
+🔁 Morgen ga ik:
+-Range function
