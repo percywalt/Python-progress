@@ -1,0 +1,24 @@
+📅 2026-04-11
+
+🎯 What dit i learned?
+How Range function
+
+💻 Wat heb ik gedaan? 
+
+for i in range(2):
+    for j in range(3):
+        print("*")
+
+❌ Problemen / fouten
+-
+
+🧠 What i did not understand yet?
+-
+
+
+✅ What went well?
+everything was correct
+
+🔁 Morgen ga ik:
+-Nested loops
+
