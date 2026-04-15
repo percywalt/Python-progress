@@ -1,0 +1,30 @@
+📅 2026-04-11
+
+🎯 What dit i learned?
+Arguments
+
+💻 Wat heb ik gedaan?
+
+# Declare your function here
+def result():
+    print (a*b)
+# print the result of a*b inside the function
+
+a = int(input())
+b = int(input())
+result()
+# Call your function here with the arguments a and b
+
+
+❌ Problemen / fouten
+-
+
+🧠 What i did not understand yet?
+-
+
+
+✅ What went well?
+It was amazind it went well
+
+🔁 Morgen ga ik:
+-Return
